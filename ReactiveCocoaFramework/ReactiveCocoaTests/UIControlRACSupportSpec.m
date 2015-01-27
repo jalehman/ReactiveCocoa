@@ -8,7 +8,7 @@
 
 #import "RACTestUIButton.h"
 
-#import "EXTKeyPathCoding.h"
+#import "RACEXTKeyPathCoding.h"
 #import "NSObject+RACDeallocating.h"
 #import "RACChannelExamples.h"
 #import "RACCompoundDisposable.h"

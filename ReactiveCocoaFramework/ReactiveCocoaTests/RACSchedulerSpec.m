@@ -10,7 +10,7 @@
 #import "RACScheduler+Private.h"
 #import "RACQueueScheduler+Subclass.h"
 #import "RACDisposable.h"
-#import "EXTScope.h"
+#import "RACEXTScope.h"
 #import "RACTestExampleScheduler.h"
 #import <libkern/OSAtomic.h>
 

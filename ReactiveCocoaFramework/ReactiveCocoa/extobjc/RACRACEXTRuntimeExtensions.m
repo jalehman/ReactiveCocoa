@@ -7,7 +7,7 @@
 //  Released under the MIT license.
 //
 
-#import "EXTRuntimeExtensions.h"
+#import "RACEXTRuntimeExtensions.h"
 #import <ctype.h>
 #import <libkern/OSAtomic.h>
 #import <objc/message.h>
